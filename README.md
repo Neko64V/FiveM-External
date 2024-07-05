@@ -8,3 +8,5 @@
 * Memory AimBot
 * ESP
 * b2944/b2699 のみ対応
+
+[English](https://github.com/Neko64V/FiveM-External/blob/main/README_EN.md)
