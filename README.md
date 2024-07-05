@@ -9,4 +9,10 @@
 * ESP
 * b2944/b2699 のみ対応
 
+## あなたがやるべきこと
+* 各バージョンへの対応
+* クライアントのバージョンをチェックし、適切なアドレス/オフセットを返す関数の作成。
+* いくつかのチェックを導入（PedType、InVehicle() 等）
+* 必要に応じてAimBot Predictionの導入
+
 [English](https://github.com/Neko64V/FiveM-External/blob/main/README_EN.md)
